@@ -51,6 +51,7 @@ I'm a software engineer with over 10 years of experience teaching programming. H
 <a href="https://www.duolingo.com/profile/coutinhowa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a> 
 </div>
 
+![snake gif](https://github.com/cmscoutinho/cmscoutinho/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **coutinhoware/coutinhoware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
