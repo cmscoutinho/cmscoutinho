@@ -14,18 +14,6 @@ I'm a software engineer with over 10 years of experience teaching programming. H
 </p>
 
 
-<!--
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
--->
-
 ## :speaking_head: You can reach me in
 
 # ![brazil-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/be8f5594-71d0-4908-8d36-212fc938b6e9) ![united-kingdom-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/0ed89483-285c-45e7-b335-7b5a580eaa6e) ![germany-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/90b44a87-d9b4-492e-94d6-f6f817816d82) ![spain-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/41160d94-9012-48b6-9072-c77d38d316f2) ![france-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/31bdff17-fdee-497e-9ffa-ee34b947bf3f)
@@ -41,7 +29,7 @@ I'm a software engineer with over 10 years of experience teaching programming. H
 
 ## 🌐 Social Links
 
-<div>
+<div align="center">
 <a href="https://www.youtube.com/channel/UCmsuVrwAKLzqjD0f2tzcVXA" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/ccoutinhof" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
@@ -50,8 +38,6 @@ I'm a software engineer with over 10 years of experience teaching programming. H
 <!--<a href="https://www.duolingo.com/profile/coutinhowa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Duolingo-00FF00?style=for-the-badge&logo=duolingo&logoColor=green" target="_blank"></a>   -->
 <a href="https://www.duolingo.com/profile/coutinhowa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a> 
 </div>
-
-![snake gif](https://github.com/cmscoutinho/cmscoutinho/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **coutinhoware/coutinhoware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
