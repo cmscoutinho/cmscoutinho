@@ -26,7 +26,9 @@ I'm a software engineer with over 10 years of experience teaching programming. H
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 -->
 
-## 🔧 You can reach me in
+## :speaking_head: You can reach me in
+
+BR GB ES DE FR
 
 
 ## ✨ GitHub stats
