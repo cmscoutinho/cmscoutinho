@@ -1,4 +1,7 @@
-# Claudio Coutinho
+# Claudio Coutinho ![brazil-flag-waving-icon-64](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/e7300c14-3d95-4576-91ef-53aa2463df41) / ![portugal-flag-waving-icon-64](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/f8612a7b-071e-40d2-a490-c9b1417d0339)
+
+
+
   <div align="center">
     <p>&#x1F1F5;&#x1F1F9;</p>
   </div>
