@@ -28,8 +28,14 @@ I'm a software engineer with over 10 years of experience teaching programming. H
 
 ## :speaking_head: You can reach me in
 
-BR GB ES DE FR
+<p align="center">
+  ![brazil-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/be8f5594-71d0-4908-8d36-212fc938b6e9) ![united-kingdom-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/0ed89483-285c-45e7-b335-7b5a580eaa6e)
+ ![germany-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/90b44a87-d9b4-492e-94d6-f6f817816d82) ![spain-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/41160d94-9012-48b6-9072-c77d38d316f2) ![france-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/31bdff17-fdee-497e-9ffa-ee34b947bf3f)
 
+
+
+
+</p>
 
 ## ✨ GitHub stats
 
