@@ -5,6 +5,10 @@ I'm a software engineer with over 10 years of experience teaching programming. H
 
 ## 🔧 Technologies & Tools
 
+[![](https://skillicons.dev/icons?i=java,spring,idea,eclipse,androidstudio,c,cpp,py,pytorch,anaconda,sklearn,opencv,matlab,octave,latex,mysql,docker,windows,linux,ubuntu,vim,regex,git,github,vscode,discord,notion,)](https://skillicons.dev)
+
+
+<!--
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -14,7 +18,7 @@ I'm a software engineer with over 10 years of experience teaching programming. H
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+-->
 
 
 ## ✨ GitHub stats
