@@ -1,10 +1,6 @@
-# Claudio Coutinho ![brazil-flag-waving-icon-64](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/e7300c14-3d95-4576-91ef-53aa2463df41) / ![portugal-flag-waving-icon-64](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/f8612a7b-071e-40d2-a490-c9b1417d0339)
+# Claudio Coutinho ![brazil-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/a8368063-d337-4339-be57-488e3eae6bbf) ![portugal-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/3069c08d-6e53-49e2-9603-7fef93055a74)
 
 
-
-  <div align="center">
-    <p>&#x1F1F5;&#x1F1F9;</p>
-  </div>
 
 ### Hi there 👋
 I'm a software engineer with over 10 years of experience teaching programming. Here's a quick overview of my technical skills and social profiles!
@@ -29,6 +25,8 @@ I'm a software engineer with over 10 years of experience teaching programming. H
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 -->
+
+## 🔧 You can reach me in
 
 
 ## ✨ GitHub stats
