@@ -1,6 +1,6 @@
 # Claudio Coutinho
-  <div align='"center">
-    <p>Portugal: &#x1F1F5;&#x1F1F9;</p>
+  <div align="center">
+    <p>&#x1F1F5;&#x1F1F9;</p>
   </div>
 
 ### Hi there 👋
