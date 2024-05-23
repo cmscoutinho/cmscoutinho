@@ -5,7 +5,11 @@ I'm a software engineer with over 10 years of experience teaching programming. H
 
 ## 🔧 Technologies & Tools
 
-[![](https://skillicons.dev/icons?i=java,spring,idea,eclipse,androidstudio,c,cpp,py,pytorch,anaconda,sklearn,opencv,matlab,octave,latex,mysql,docker,windows,linux,ubuntu,vim,regex,git,github,vscode,discord,notion,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,eclipse,androidstudio,c,cpp,py,pytorch,anaconda,sklearn,opencv,matlab,octave,latex,mysql,docker,windows,linux,ubuntu,vim,regex,git,github,vscode,discord,notion" />
+  </a>
+</p>
 
 
 <!--
