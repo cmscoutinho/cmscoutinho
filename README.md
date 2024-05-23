@@ -1,4 +1,5 @@
-# Claudio Coutinho 🇧🇷/🇵🇹
+# Claudio Coutinho
+🇧🇷 / 🇵🇹
 
 ### Hi there 👋
 I'm a software engineer with over 10 years of experience teaching programming. Here's a quick overview of my technical skills and social profiles!
