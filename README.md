@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi there!+👋;+I'm Claudio Coutinho!;Welcome!;" />
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=25&duration=3000&pause=1000&color=37C1FD&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Claudio+Coutinho;Welcome!" alt="Typing SVG" /></a>
 
 ### Hi there 👋
 I'm a Software Engineer with over 10 years of experience teaching programming. Here's a quick overview of my technical skills and social profiles!
