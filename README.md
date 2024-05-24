@@ -1,7 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=25&duration=3000&pause=1000&color=37C1FD&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Claudio+Coutinho;Welcome!" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=50&duration=3000&pause=1000&color=37C1FD&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Claudio+Coutinho;Welcome!" alt="Typing SVG" /></a>
+</div>
 
-### Hi there 👋
-I'm a Software Engineer with over 10 years of experience teaching programming. Here's a quick overview of my technical skills and social profiles!
+
+# I'm a Software Engineer with over 10 years of experience teaching programming. Here's a quick overview of my technical skills and social profiles!
 ![brazil-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/a8368063-d337-4339-be57-488e3eae6bbf) ![portugal-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/3069c08d-6e53-49e2-9603-7fef93055a74)
 
 ## 🔧 Technologies & Tools
