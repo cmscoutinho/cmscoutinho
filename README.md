@@ -6,8 +6,6 @@
   <h3>I'm a <img src="https://github.com/cmscoutinho/cmscoutinho/assets/24771660/a8368063-d337-4339-be57-488e3eae6bbf"/><img src="https://github.com/cmscoutinho/cmscoutinho/assets/24771660/3069c08d-6e53-49e2-9603-7fef93055a74"/> Software Engineer with over 10 years of experience teaching programming. Here's a quick overview of my technical skills and social profiles!</h3>
   </div>
 
-<!--![brazil-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/a8368063-d337-4339-be57-488e3eae6bbf)![portugal-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/3069c08d-6e53-49e2-9603-7fef93055a74) Software Engineer with over 10 years of experience teaching programming. Here's a quick overview of my technical skills and social profiles!-->
-
 ## 🔧 Technologies & Tools
 
 <p align="center">
