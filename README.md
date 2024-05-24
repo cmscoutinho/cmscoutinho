@@ -27,8 +27,8 @@ I'm a software engineer with over 10 years of experience teaching programming. H
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cmscoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-  <div align="center" style="width: 20px;">
-    <img loading="lazy" height="180em" src="https://github.com/cmscoutinho/cmscoutinho/blob/output/github-contribution-grid-snake.gif"/>
+  <div align="center">
+    <img loading="lazy" height="160em" src="https://github.com/cmscoutinho/cmscoutinho/blob/output/github-contribution-grid-snake.gif"/>
   </div>
 
 ## 🌐 Social Links
