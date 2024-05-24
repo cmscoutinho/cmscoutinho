@@ -1,9 +1,10 @@
-# Claudio Coutinho ![brazil-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/a8368063-d337-4339-be57-488e3eae6bbf) ![portugal-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/3069c08d-6e53-49e2-9603-7fef93055a74)
-
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi there!+👋;+I'm Claudio Coutinho!;Welcome!;" />
+</h1>
 
 ### Hi there 👋
-I'm a software engineer with over 10 years of experience teaching programming. Here's a quick overview of my technical skills and social profiles!
+I'm a Software Engineer with over 10 years of experience teaching programming. Here's a quick overview of my technical skills and social profiles!
+![brazil-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/a8368063-d337-4339-be57-488e3eae6bbf) ![portugal-flag-waving-icon-32](https://github.com/cmscoutinho/cmscoutinho/assets/24771660/3069c08d-6e53-49e2-9603-7fef93055a74)
 
 ## 🔧 Technologies & Tools
 
