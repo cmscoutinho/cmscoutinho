@@ -28,7 +28,7 @@ I'm a software engineer with over 10 years of experience teaching programming. H
 </div>
 
   <div align="center">
-    <img loading="lazy" src="https://github.com/cmscoutinho/cmscoutinho/blob/output/github-contribution-grid-snake.gif"/>
+    <img loading="lazy" heigth="180em" src="https://github.com/cmscoutinho/cmscoutinho/blob/output/github-contribution-grid-snake.gif"/>
   </div>
 
 ## 🌐 Social Links
