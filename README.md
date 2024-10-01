@@ -8,7 +8,7 @@
 
 <!--<img src="https://github.com/cmscoutinho/cmscoutinho/assets/24771660/3069c08d-6e53-49e2-9603-7fef93055a74"/>-->
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies, Skills & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
