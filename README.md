@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>I'm a <img src="https://github.com/cmscoutinho/cmscoutinho/assets/24771660/a8368063-d337-4339-be57-488e3eae6bbf"/> Software Engineer with over 10 years of experience teaching programming and developing computational systems of all sorts. From databases, backend applications to Neural Networks. Here's a brief overview of my main technical skills and social profiles!</h3>
+  <h3>I'm a <img src="https://github.com/cmscoutinho/cmscoutinho/assets/24771660/a8368063-d337-4339-be57-488e3eae6bbf"/> Software Engineer with over 10 years of experience teaching programming and developing computational systems of all sorts, especially Java backend. From databases, backend applications to Neural Networks. Here's a brief overview of my main technical skills and social profiles!</h3>
   </div>
 
 <!--<img src="https://github.com/cmscoutinho/cmscoutinho/assets/24771660/3069c08d-6e53-49e2-9603-7fef93055a74"/>-->
